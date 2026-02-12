@@ -67,10 +67,28 @@ p {
     margin-left: calc(100% * 1/6);
 }
 
-.callout-2 {
+.Quote1-2 {
     font-style: italic;
     margin-left: calc(100% * 4/6);
     margin-right: calc(100% * 1/6);
+}
+
+.Quote2-2 {
+    font-style: italic;
+    margin-left: calc(100% * 1/6);
+    margin-right: calc(100% * 4/6);
+}
+
+.Quote3-2 {
+    font-style: italic;
+    margin-left: calc(100% * 4/6);
+    margin-right: calc(100% * 1/6);
+}
+
+.Quote4-2 {
+    font-style: italic;
+    margin-left: calc(100% * 1/6);
+    margin-right: calc(100% * 4/6);
 }
 
 #P1-2 {
