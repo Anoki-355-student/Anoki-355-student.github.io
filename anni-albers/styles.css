@@ -17,6 +17,11 @@ p {
     line-height: 1.5rem;
 }
 
-.callout {
+p.callout {
     font-style: italic;
+    margin-right: calc(100% * 1/6);
+}
+
+#P1 {
+    margin-left: calc(100% * 1/6);
 }
