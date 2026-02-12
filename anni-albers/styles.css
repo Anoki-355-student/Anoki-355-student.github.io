@@ -28,41 +28,91 @@ p {
 }
 
 #P2{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P3{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P4{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P5{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P6{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P7{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P8{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P9{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P10{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
 }
 
 #P11{
-margin-left: calc(100% * 1/6);
+    margin-left: calc(100% * 1/6);
+}
+
+.callout-2 {
+    font-style: italic;
+    margin-left: calc(100% * 4/6);
+    margin-right: calc(100% * 1/6);
+}
+
+#P1-2 {
+
+}
+
+#P2-2 {
+
+}
+
+#P3-2 {
+
+}
+
+#P4-2 {
+
+}
+
+#P5-2 {
+
+}
+
+#P6-2 {
+
+}
+
+#P7-2 {
+
+}
+
+#P8-2 {
+
+}
+
+#P9-2 {
+
+}
+
+#P10-2 {
+
+}
+
+#P11-2 {
+
 }
