@@ -17,6 +17,6 @@ p {
     line-height: 1.5rem;
 }
 
-callout {
+.callout {
     font-style: italic;
 }
