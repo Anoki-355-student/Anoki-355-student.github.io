@@ -19,7 +19,8 @@ p {
 
 .callout {
     font-style: italic;
-    float: right;
+    margin-left: calc(100% * 2/6);
+    margin-right: calc(100% * 2/6);
 }
 
 #P1 {
