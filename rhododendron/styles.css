@@ -7,7 +7,7 @@ body {
 }
 
 #RhodiePic {
-    position: relative;
+    position: fixed;
     max-width: 100%;
     height: 100%;
     background-image: url(Pacific Rhododendron 1 - Walter Siegmund.jpeg);
