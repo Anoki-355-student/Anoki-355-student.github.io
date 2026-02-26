@@ -3,3 +3,15 @@ body {
     padding-top: 0%;
     padding: 0%;
 }
+
+#RhodieTitle {
+    
+}
+
+#RhodieTitle h1 {
+    color: #dabfd8;
+}
+
+#RhodieAbout p {
+    color: #374b18;
+}
