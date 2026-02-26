@@ -7,7 +7,7 @@ body {
 }
 
 #RhodiePic {
-    position:relative;
+    position: relative;
     width: 100vw;
     height: 100vw;
     background-image: url(Pacific Rhododendron 1 - Walter Siegmund.jpeg);
@@ -16,14 +16,14 @@ body {
 }
 
 #RhodieTitle {
-    position: absolute;
+    position: relative;
     width: 100vw;
     height: 100vw;
     color: #dabfd8;
 }
 
 #RhodieTitle h1 {
-    position: absolute;
+    position: relative;
     bottom: 0;
     text-align: center;
 }
