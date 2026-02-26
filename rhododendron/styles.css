@@ -10,7 +10,7 @@ header {
 }
 
 #RhodieTitle {
-    
+    max-width: 100vw;
 }
 
 #RhodieTitle h1 {
