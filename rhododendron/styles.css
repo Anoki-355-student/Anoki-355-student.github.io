@@ -1,4 +1,4 @@
-/*mobile first design for Pacific Rhododendron layout */
+/*first Pacific Rhododendron layout */
 
 
 body {
@@ -8,7 +8,7 @@ body {
 
 #RhodiePic {
     position: relative;
-    max-width: 100vw;
+    max-width: 100%;
     height: 100vw;
     background-image: url(Pacific Rhododendron 1 - Walter Siegmund.jpeg);
     background-size: cover;
