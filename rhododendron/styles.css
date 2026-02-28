@@ -53,19 +53,10 @@ main {
         top:0;
         left: 0;
     }
+    #RhodieNames {
+        float:left;
+    }
     #RhodieAbout {
-        width: 50vw;
-        height: 100vh;
-        left: 50vw;
-    }
-    #RhodieAbout h2 {
-        width: 45vw;
-        top:0;
-        left: 0;
-    }
-    #RhodieAbout p {
-        width: 45vw;
-        top:0;
-        left: 0;
+        
     }
 }
