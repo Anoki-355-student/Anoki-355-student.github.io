@@ -18,6 +18,8 @@ header {
     width: 25vw;
     height: 25vh;
     background-image: url("Pacific\ Rhododendron\ 1\ -\ Walter\ Siegmund.jpeg");
+    background-size: cover;
+    background-position: center;
 }
 
 #RhodieTitle {
