@@ -1,4 +1,3 @@
-
 * {
     box-sizing: border-box;
 }
@@ -17,7 +16,7 @@ header {
     position: absolute;
     width: 100vw;
     height: 100vh;
-    background-image: url("Pacific\ Rhododendron\ 1\ -\ Walter\ Siegmund.jpeg");
+    background-image: url(RhodieImage.jpeg);
     background-size: cover;
     background-position: center;
 }
