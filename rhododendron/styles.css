@@ -30,6 +30,8 @@ header {
 
 #RhodieTitle h1 {
     position: absolute;
+    bottom: 0;
+    left: 0;
     color: #dabfd8;
 }
 
