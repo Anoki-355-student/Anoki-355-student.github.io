@@ -37,3 +37,18 @@ header {
 main {
     color: #374b18;
 }
+
+@media screen and (orientation: landscape) {
+    #RhodiePic {
+        width: 50vw;
+        height: 100vh;
+    }
+    #RhodieTitle {
+        width: 50vw;
+        height: 100vh;
+        left: 50vw
+    }
+    #RhodieTitle h1 {
+        width: 45vw;
+    }
+}
