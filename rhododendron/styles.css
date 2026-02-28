@@ -23,11 +23,13 @@ header {
 }
 
 #RhodieTitle {
+    position: absolute;
     width: 100vw;
     height: 100vw;
 }
 
 #RhodieTitle h1 {
+    position: absolute;
     color: #dabfd8;
 }
 
