@@ -55,7 +55,7 @@ main {
     }
     #RhodieNames {
         margin-left: calc(100% * 0/6);
-        margin-right: calc(100% * 1/6); 
+        margin-right: calc(100% * 1/12); 
         float: left;
     }
     #RhodieAbout {
