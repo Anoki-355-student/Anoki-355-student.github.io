@@ -9,14 +9,14 @@ body {
 }
 
 header {
-    width: 50vw;
-    height: 50vh;
+    width: 25vw;
+    height: 25vh;
 }
 
 #RhodiePic {
     position: absolute;
-    width: 50vw;
-    height: 50vh;
+    width: 25vw;
+    height: 25vh;
     background-image: url(Pacific\ Rhododendron\ 1\ -\ Walter\ Siegmund.jpeg);
     background-size: cover;
     background-position: center;
@@ -24,8 +24,8 @@ header {
 
 #RhodieTitle {
     position: absolute;
-    width: 50vw;
-    height: 50vh;
+    width: 25vw;
+    height: 25vh;
 }
 
 #RhodieTitle h1 {
