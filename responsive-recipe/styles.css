@@ -1,5 +1,27 @@
+* {
+    box-sizing: border-box;
+}
 
-.img {
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+}
+
+#applepic {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("apple.jpg");
+    background-size: cover;
+    background-position: center top;
+}
+
+#appletitle {
     position: absolute;
     width: 100vw;
     height: 100vh;
