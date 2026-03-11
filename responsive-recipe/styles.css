@@ -20,8 +20,8 @@ img {
     }
     #Ingredients {
         width: 50vw;
-        height: 100vh;
-        right: 50vw;
+        height: auto;
+        left: 50vw;
     }
     #Directions li {
         text-align: center;
