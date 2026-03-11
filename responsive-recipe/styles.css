@@ -15,7 +15,7 @@ header {
 #applepic {
     position: absolute;
     width: 100vw;
-    height: 100vh;
+    height: auto;
     background-image: url("apple.jpg");
     background-size: cover;
     background-position: center top;
