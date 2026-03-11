@@ -21,7 +21,8 @@ img {
     #Ingredients {
         width: 50vw;
         height: auto;
-        right: 0;
+        margin-left: calc(100% * 1/2);
+        margin-right: 100%;
     }
     #Directions li {
         text-align: center;
