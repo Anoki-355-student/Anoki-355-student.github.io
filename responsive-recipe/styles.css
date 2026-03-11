@@ -18,7 +18,7 @@ img {
         height: auto;
         float: left;
     }
-    #Ingredients {
-        text-align: right;
+    #Directions {
+        text-align: center;
     }
 }
