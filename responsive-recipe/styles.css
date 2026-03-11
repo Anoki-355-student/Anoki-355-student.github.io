@@ -1,5 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+}
+
 #ApplePic {
-        position: absolute;
+    position: absolute;
     width: 100vw;
     height: 100vh;
     background-image: url("ApplePie.jpeg");
