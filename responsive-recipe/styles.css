@@ -15,7 +15,10 @@ img {
 @media screen and (orientation: portrait) {
     #AppleTitle {
         width: 50vw;
-        height: 100vh;
+        height: auto;
         float: left;
+    }
+    #Ingredients {
+        text-align: right;
     }
 }
