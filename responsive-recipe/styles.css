@@ -24,7 +24,8 @@ img {
         margin-left: calc(100% * 1/2);
         margin-right: 100%;
     }
-    #Directions li {
-        text-align: center;
+    #Directions {
+        margin-left: calc(100% * 1/6);
+        margin-right: calc(100% * 5/6);
     }
 }
