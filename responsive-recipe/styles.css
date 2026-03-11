@@ -18,6 +18,11 @@ img {
         height: auto;
         float: left;
     }
+    #Ingredients {
+        width: 50vw;
+        height: 100vh;
+        left: 50vw;
+    }
     #Directions li {
         text-align: center;
     }
