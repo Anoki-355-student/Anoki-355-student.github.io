@@ -25,7 +25,7 @@ img {
         margin-right: 100%;
     }
     #Directions {
-        margin-left: calc(100% * 1/6);
-        margin-right: calc(100% * 5/6);
+        margin-left: 1/6vw;
+        margin-right: 5/6vw;
     }
 }
