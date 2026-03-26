@@ -1,3 +1,11 @@
+:root {
+    --nav-height: 3rem;
+    --nav-bkgd-color: gray;
+    --nav-text-color: white;
+    --nav-hover-bkgd-color: lightgray;
+    --nav-hover-text-color: black;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -12,20 +20,22 @@ img {
     max-height: 100vh;
 }
 
-@media screen and (orientation: portrait) {
-    #Title {
-        width: 50vw;
-        height: auto;
-        float: left;
-    }
-    #Ingredients {
-        width: 50vw;
-        height: auto;
-        margin-left: calc(100% * 1/2);
-        margin-right: 100%;
-    }
-    #Directions {
-        margin-left: 1/6vw;
-        margin-right: 5/6vw;
-    }
+#Title {
+    width: 50vw;
+    height: auto;
+    float: left;
 }
+
+#Ingredients {
+    width: 50vw;
+    height: auto;
+    margin-left: calc(100% * 1/2);
+    margin-right: 100%;
+}
+
+#Directions {
+    margin-left: 1/6vw;
+    margin-right: 5/6vw;
+}
+
+@media screen and (orientation: landscape) {}
