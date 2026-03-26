@@ -103,6 +103,10 @@ nav>ul>li>ul>li:hover a {
     color: var(--nav-hover-text-color);
 }
 
+main {
+    color: #4e2c11;
+};
+}
 
 /* ----- MEDIA QUERY for landscape/desktop layout ----- */
 @media screen and (orientation: landscape) {
