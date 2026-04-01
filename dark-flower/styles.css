@@ -38,19 +38,6 @@ main {
     color: #374b18;
 }
 
-#toggleDarkMode {
-    margin-top: 2em;
-}
-
-body.darkMode {
-    background-color: #2c2c2c;
-    color: white;
-}
-
-body.darkMode h1 {
-    color: #904563;
-}
-
 @media screen and (orientation: landscape) {
     #RhodiePic {
         width: 50vw;
@@ -76,4 +63,17 @@ body.darkMode h1 {
         margin-left: 1/6vw;
         margin-right: 50vw;
     }
+}
+
+#toggleDarkMode {
+    margin-top: 2em;
+}
+
+body.darkMode {
+    background-color: #2c2c2c;
+    color: white;
+}
+
+body.darkMode h1 {
+    color: #904563;
 }
