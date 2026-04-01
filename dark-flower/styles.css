@@ -77,3 +77,7 @@ body.darkMode {
 body.darkMode h1 {
     color: #904563;
 }
+
+body.darkMode p {
+    color: #768b4a;
+}
