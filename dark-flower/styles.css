@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+}
+
+#RhodiePic {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("RhodieImage.jpeg");
+    background-size: cover;
+    background-position: center top;
+}
+
+#RhodieTitle {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+#RhodieTitle h1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #dabfd8;
+}
+
+main {
+    color: #374b18;
+}
+
+@media screen and (orientation: landscape) {
+    #RhodiePic {
+        width: 50vw;
+        height: 100vh;
+    }
+    #RhodieTitle {
+        width: 50vw;
+        height: 100vh;
+        left: 50vw;
+    }
+    #RhodieTitle h1 {
+        width: 45vw;
+        top:0;
+        left: 0;
+    }
+    #RhodieNames {
+        margin-left: 0vw;
+        margin-right: 1/6vw;
+        height: 100vh;
+        float: left;
+    }
+    #RhodieAbout {
+        margin-left: 1/6vw;
+        margin-right: 50vw;
+    }
+}
