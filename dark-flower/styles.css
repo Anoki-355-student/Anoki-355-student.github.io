@@ -81,3 +81,11 @@ body.darkMode h1 {
 body.darkMode p {
     color: #768b4a;
 }
+
+body.darkMode h2 {
+    color: #768b4a;
+}
+
+body.darkMode li {
+    color: #768b4a;
+}
