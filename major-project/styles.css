@@ -105,16 +105,14 @@ nav>ul>li>ul>li:hover a {
     color: var(--nav-hover-text-color);
 }
 
-main {
+main h1 {
     color: #ffbf00;
 }
 
-main h1 {
-    font-family: Verdana;
+main p{
+    color: black;
 }
 
-
-/* ----- MEDIA QUERY for landscape/desktop layout ----- */
 @media screen and (orientation: landscape) {
 
     #navBurger {
