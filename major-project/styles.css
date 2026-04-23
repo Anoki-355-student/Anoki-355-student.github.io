@@ -108,6 +108,10 @@ main {
     color: #ffbf00;
 }
 
+main h1 {
+    font-family: Verdana;
+}
+
 
 /* ----- MEDIA QUERY for landscape/desktop layout ----- */
 @media screen and (orientation: landscape) {
