@@ -3,16 +3,21 @@
 
 <head>
 
+    <!-- meta tags and title -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pattern Practice Homepage</title>
+    <title>Extra Resources</title>
 
+    <!-- external and internal CSS -->
     <link rel="stylesheet" href="styles.css" media="all">
     <style>
+        /* in-file CSS here */
     </style>
 
+    <!-- external and internal JavaScript -->
     <script src="scripts.js" defer></script>
     <script>
+        // in-page JavaScript here
     </script>
 
 </head>
@@ -44,9 +49,8 @@
     </nav>
 
     <main>
-        <h1>Pattern Practice</h1>
-        <p>Welcome to the Pattern Practice homepage! This website is designed to help beginners learn how to crochet and
-            follow patterns.</p>
+        <h1>Extra Resources</h1>
+        <p></p>
     </main>
 
 </body>
