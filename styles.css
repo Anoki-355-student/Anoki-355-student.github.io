@@ -20,3 +20,13 @@ main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #90a9eb;
 }
+
+#Title p {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #90a9eb;
+}
