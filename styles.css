@@ -1,4 +1,7 @@
 main {
+    position:absolute;
+    top: 25vh;
+    left: 0%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #b8b661;
     background-color: #eae9d5;
