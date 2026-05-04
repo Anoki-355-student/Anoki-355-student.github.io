@@ -1,4 +1,4 @@
-body {
+main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #b8b661;
     background-color: #eae9d5;
@@ -9,5 +9,13 @@ body {
    width: 100vw;
    height: 100vh; 
     background-color: #d8daf3;
+}
+#Title h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #90a9eb;
 }
