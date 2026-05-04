@@ -66,5 +66,13 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 2em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Activities p, #TinyProjects p, #MajorProject p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2em;
+    text-align: center;
 }
