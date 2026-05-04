@@ -38,3 +38,13 @@ main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #90a9eb;
 }
+
+#Title a {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #90a9eb;
+}
