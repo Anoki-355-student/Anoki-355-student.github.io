@@ -68,7 +68,23 @@ main {
     font-size: 2em;
 }
 
-#Activities ul, #TinyProjects ul, #MajorProject ul {
+#Activities ul {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2em;
+}
+
+#TinyProjects ul {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2em;
+}
+
+#MajorProject ul {
     position: absolute;
     top: 30%;
     left: 50%;
