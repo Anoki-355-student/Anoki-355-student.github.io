@@ -59,3 +59,12 @@ main {
     left: calc(100% * 2/3);
     height: 100vh;
 }
+
+#Activities h2, #TinyProjects h2, #MajorProject h2 {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
