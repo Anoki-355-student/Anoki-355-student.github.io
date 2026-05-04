@@ -39,3 +39,23 @@ main {
     color: #90a9eb;
     text-align: center;
 }
+
+#Activities {
+    position:absolute;
+    width: calc(100% * 1/3);
+    height: 100vh;
+}
+
+#TinyProjects {
+    position: absolute;
+    width: calc(100% * 1/3);
+    left: calc(100% * 1/3);
+    height: 100vh;
+}
+
+#MajorProject {
+    position: absolute;
+    width: calc(100% * 1/3);
+    left: calc(100% * 2/3);
+    height: 100vh;
+}
