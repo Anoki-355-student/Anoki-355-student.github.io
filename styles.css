@@ -6,11 +6,13 @@ main {
     height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #b8b661;
-    background-color: #eae9d5;
+    background-color: #fef3ed;
 }
 
 #Title {
     position: absolute;
+    top: 0%;
+    left: 0%;
     width: 100vw;
     height: 25vh;
     background-color: #d8daf3;
