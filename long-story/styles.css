@@ -1,0 +1,6 @@
+main {
+    height: 500vh;
+    background-image: url(space-needle.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
