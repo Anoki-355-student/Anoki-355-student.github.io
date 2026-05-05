@@ -47,6 +47,26 @@ section > .instructions {
 }
 
 #section1 h1 {
-    font-size: 3rem;
+    font-size: 4rem;
+    color: black;
+}
+
+#section2 h2 {
+    font-size: 2rem;
+    color: black;
+}
+
+#section3 p {
+    font-size: 2rem;
+    color: black;
+}
+
+#section4 {
+    font-size: 2rem;
+    color: black;
+}
+
+#section5 {
+    font-size: 2rem;
     color: black;
 }
