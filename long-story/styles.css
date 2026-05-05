@@ -51,7 +51,12 @@ section > .instructions {
     color: black;
 }
 
-#section2 h2 {
+#section2 p {
+    font-size: 2rem;
+    color: black;
+}
+
+#section2 p {
     font-size: 2rem;
     color: black;
 }
@@ -61,12 +66,12 @@ section > .instructions {
     color: black;
 }
 
-#section4 {
+#section4 p {
     font-size: 2rem;
     color: black;
 }
 
-#section5 {
+#section5 p {
     font-size: 2rem;
     color: black;
 }
