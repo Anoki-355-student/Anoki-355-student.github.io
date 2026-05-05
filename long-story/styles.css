@@ -10,7 +10,7 @@ html, body {
 main {
     height: 500vh;
     background-size: cover;
-    background-image: url("space-needle.jpg");
+    background-image: url("spaceneedle.jpg");
     background-repeat: no-repeat;
     background-position: center top;
 }
