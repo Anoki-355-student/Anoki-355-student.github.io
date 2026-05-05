@@ -62,6 +62,7 @@ section > .instructions {
 #section2 p {
     font-size: 1.25rem;
     color: black;
+    margin: 20px;
     text-align: left;
     background-color: #fffeea;
     border-radius: 10%;
