@@ -72,6 +72,8 @@ section > .instructions {
 #section3 p {
     font-size: 1.25rem;
     color: black;
+    margin-left: 20%;
+    margin-right: 20%;
     text-align: left;
     background-color: #fffeea;
     border-radius: 10%;
@@ -80,6 +82,8 @@ section > .instructions {
 #section4 p {
     font-size: 1.25rem;
     color: black;
+    margin-left: 20%;
+    margin-right: 20%;
     text-align: left;
     background-color: #fffeea;
     border-radius: 10%;
@@ -88,6 +92,8 @@ section > .instructions {
 #section5 p {
     font-size: 1.25rem;
     color: black;
+    margin-left: 20%;
+    margin-right: 20%;
     text-align: left;
     background-color: #fffeea;
     border-radius: 10%;
