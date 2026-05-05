@@ -30,8 +30,8 @@ section {
 
 section > .content {
     position: absolute;
-    top: 20vh;
-    right: 4vw;
+    top: 10vh;
+    right: 0vw;
 }
 
 section > .instructions {
