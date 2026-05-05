@@ -82,9 +82,9 @@ section > .instructions {
 }
 
 #section2 {
-    right: 100%;
+    left: calc(100% * 2/3)
 }
 
 #section4 {
-    right: 100%;
+    left: calc(100% * 2/3)
 }
