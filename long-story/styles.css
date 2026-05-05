@@ -54,26 +54,31 @@ section > .instructions {
 #section2 p {
     font-size: 1.5rem;
     color: black;
+    text-align: right;
 }
 
 #section2 p {
     font-size: 1.5rem;
     color: black;
+    text-align: right;
 }
 
 #section3 p {
     font-size: 1.5rem;
     color: black;
+    text-align: right;
 }
 
 #section4 p {
     font-size: 1.5rem;
     color: black;
+    text-align: right;
 }
 
 #section5 p {
     font-size: 1.5rem;
     color: black;
+    text-align: right;
 }
 
 #section2, #section3, #section4, #section5 {
