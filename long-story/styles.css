@@ -26,8 +26,6 @@ section {
     width: calc(100% * 1/3);
     height: 100vh;
     border-bottom: dashed 1px white;
-    background-color: #fffeea;
-    border-radius: 10%;
 }
 
 section > .content {
@@ -76,4 +74,17 @@ section > .instructions {
 #section5 p {
     font-size: 1.5rem;
     color: black;
+}
+
+#section2, #section3, #section4, #section5 {
+    background-color: #fffeea;
+    border-radius: 10%;
+}
+
+#section2 {
+    left: calc(100% * 2/3)
+}
+
+#section4 {
+    left: calc(100% * 2/3)
 }
