@@ -31,7 +31,7 @@ section {
 section > .content {
     position: absolute;
     top: 10vh;
-    right: 0vw;
+    left: 0vw;
 }
 
 section > .instructions {
