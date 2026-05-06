@@ -155,14 +155,10 @@ main p{
         content: "";
     }
 
-main h1 {
-    margin-left: 2rem;
-    margin-right: 2rem;
-}
 
-main h2, p{
-    margin-left: 4rem;
-    margin-right: 4rem;
+main h1, h2, p{
+    margin-left: 6rem;
+    margin-right: 6rem;
 }
 
 }
