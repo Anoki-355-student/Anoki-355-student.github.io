@@ -107,10 +107,12 @@ nav>ul>li>ul>li:hover a {
 
 main h1 {
     color: #ffbf00;
+    padding: 0.5rem;
 }
 
 main p{
     color: black;
+    padding: 0.5rem;
 }
 
 @media screen and (orientation: landscape) {
