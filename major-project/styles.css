@@ -157,8 +157,8 @@ main p{
 
 
 main h1, h2, h3, h4, p, ul {
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: calc(100% * 1/8);
+    margin-right: calc(100% * 7/8);
 }
 
 }
