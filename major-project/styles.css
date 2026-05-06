@@ -156,7 +156,7 @@ main p{
     }
 
 
-main h1, h2, h3, p{
+main h1, h2, h3, p, ul {
     margin-left: 6rem;
     margin-right: 6rem;
 }
