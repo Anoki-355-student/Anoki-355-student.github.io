@@ -155,9 +155,14 @@ main p{
         content: "";
     }
 
-main {
+main h1 {
     margin-left: 2rem;
     margin-right: 2rem;
+}
+
+main h2, p{
+    margin-left: 4rem;
+    margin-right: 4rem;
 }
 
 }
