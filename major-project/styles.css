@@ -137,7 +137,9 @@ ul {
 }
 
 .tile {
-    display: inline-block;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     width: 37.5%;
     aspect-ratio: 1/1;
     background-color:#ffbf00;
