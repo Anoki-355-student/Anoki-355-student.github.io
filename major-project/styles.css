@@ -142,7 +142,7 @@ ul {
     aspect-ratio: 1/1;
     padding: 0.5rem;
     background-color:#ffbf00;
-    border-radius: 10rem;
+    border-radius: 10px;
 }
 
 @media screen and (orientation: landscape) {
