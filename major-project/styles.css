@@ -136,13 +136,18 @@ ul {
     margin-right: 2rem;
 }
 
-.Tile {
+.tile {
     background-color: #ffbf00;
     border-radius: 0.5rem;
     padding: 0.5rem;
-    max-width: 400px;
-    max-height: 400px;
+    width: 400px;
+    height: 400px;
     margin: 0.5rem auto;
+}
+
+.tile-button {
+    width: 400px;
+    height: 400px;
 }
 
 @media screen and (orientation: landscape) {
