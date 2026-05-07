@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
 :root {
     --nav-height: 3rem;
     --nav-bkgd-color: #ffbf00;
@@ -9,8 +11,6 @@
 * {
     box-sizing: border-box;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
 
 body {
     margin: 0;
