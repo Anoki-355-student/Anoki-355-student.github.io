@@ -136,25 +136,7 @@ ul {
     margin-right: 2rem;
 }
 
-div#tile {
-    max-width: 400px;
-    max-height: 400px;
-    background-color: #ffbf00;
-    border-radius: 0.5rem;
-}
 
-.tile {
-    border-radius: 0.5rem;
-    padding: 0.5rem;
-    max-width: 400px;
-    max-height: 400px;
-    margin: 0.5rem auto;
-}
-
-.tile-button {
-    max-width: 400px;
-    max-height: 400px;
-}
 
 @media screen and (orientation: landscape) {
 
