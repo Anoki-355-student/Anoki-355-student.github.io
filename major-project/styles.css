@@ -124,6 +124,8 @@ main h1, h2, h3, h4, p, ul {
 
 .Tile {
     background-color: #ffbf00;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
 }
 
 @media screen and (orientation: landscape) {
