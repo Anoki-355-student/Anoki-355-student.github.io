@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Rubik+Bubbles&display=swap');
 
 :root {
     --nav-height: 3rem;
@@ -16,7 +16,10 @@ body {
     margin: 0;
     padding: var(--nav-height) 0 0 0;
     background-color: #eefafe;
-    font-family: Verdana;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
 }
 
 nav {
