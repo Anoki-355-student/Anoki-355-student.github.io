@@ -192,7 +192,8 @@ ul {
     h3,
     h4,
     p,
-    ul {
+    ul,
+    .tile {
         margin-left: calc(100% * 1/8);
         margin-right: calc(100% * 1/8);
     }
