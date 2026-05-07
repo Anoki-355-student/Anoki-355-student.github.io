@@ -172,6 +172,11 @@ ul,
     color:#eefafe;
 }
 
+.tile p {
+    font-size:x-small;
+    text-align: center;
+}
+
 @media screen and (orientation: landscape) {
 
     #navBurger {
