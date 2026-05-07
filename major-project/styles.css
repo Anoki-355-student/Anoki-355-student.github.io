@@ -136,6 +136,12 @@ ul {
     margin-right: 2rem;
 }
 
+.tile {
+    display: block;
+    background-color:#ffbf00;
+    border-radius: 10%;
+}
+
 @media screen and (orientation: landscape) {
 
     #navBurger {
