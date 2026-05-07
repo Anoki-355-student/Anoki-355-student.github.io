@@ -138,6 +138,7 @@ ul {
 
 .tile {
     display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     width: calc(100% * 1/3 - 4rem);
     aspect-ratio: 1/1;
     background-color:#ffbf00;
