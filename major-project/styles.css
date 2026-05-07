@@ -137,8 +137,8 @@ ul {
 }
 
 div#tile {
-    width: 400px;
-    height: 400px;
+    max-width: 400px;
+    max-height: 400px;
     background-color: #ffbf00;
     border-radius: 0.5rem;
 }
@@ -146,14 +146,14 @@ div#tile {
 .tile {
     border-radius: 0.5rem;
     padding: 0.5rem;
-    width: 400px;
-    height: 400px;
+    max-width: 400px;
+    max-height: 400px;
     margin: 0.5rem auto;
 }
 
 .tile-button {
-    width: 400px;
-    height: 400px;
+    max-width: 400px;
+    max-height: 400px;
 }
 
 @media screen and (orientation: landscape) {
