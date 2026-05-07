@@ -122,6 +122,10 @@ main h1, h2, h3, h4, p, ul {
     margin-right: 2rem;
 }
 
+#Tile {
+    background-color: #ffbf00;
+}
+
 @media screen and (orientation: landscape) {
 
     #navBurger {
