@@ -137,8 +137,7 @@ ul {
 }
 
 .tile {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    display: inline-block;
     width: 37.5%;
     aspect-ratio: 1/1;
     background-color:#ffbf00;
