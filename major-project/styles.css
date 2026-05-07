@@ -136,8 +136,14 @@ ul {
     margin-right: 2rem;
 }
 
-.tile {
+div#tile {
+    width: 400px;
+    height: 400px;
     background-color: #ffbf00;
+    border-radius: 0.5rem;
+}
+
+.tile {
     border-radius: 0.5rem;
     padding: 0.5rem;
     width: 400px;
