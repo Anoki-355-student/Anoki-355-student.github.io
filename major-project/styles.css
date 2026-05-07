@@ -141,7 +141,7 @@ ul {
     width: fit-content;
     padding: 0.5rem;
     background-color:#ffbf00;
-    border-radius: 10%;
+    border-radius: 10rem;
 }
 
 @media screen and (orientation: landscape) {
