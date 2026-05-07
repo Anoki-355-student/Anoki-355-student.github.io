@@ -126,6 +126,9 @@ main h1, h2, h3, h4, p, ul {
     background-color: #ffbf00;
     border-radius: 0.5rem;
     padding: 0.5rem;
+    max-width: 400px;
+    max-height: 400px;
+    margin: 0.5rem auto;
 }
 
 @media screen and (orientation: landscape) {
