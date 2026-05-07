@@ -151,6 +151,7 @@ ul,
     display: flex;
     flex-direction: column;
     text-decoration: none;
+    width: 37.5%;
     color: black;
     background-color:#ffbf00;
     border-radius: 10%;
