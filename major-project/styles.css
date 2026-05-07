@@ -137,14 +137,29 @@ ul,
     margin-right: 2rem;
 }
 
-.tile {
+.grid {
+    width: 75%;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    width: 37.5%;
+    gap: 1rem;
+}
+
+.tile {
     aspect-ratio: 1/1;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
     background-color:#ffbf00;
     border-radius: 10%;
+}
+
+.tile h2 {
+    margin: 10;
+    text-align: center;
+    font-size: 1.2rem;
 }
 
 @media screen and (orientation: landscape) {
