@@ -137,7 +137,7 @@ ul {
 }
 
 .tile {
-    display: block;
+    display: inline-block;
     background-color:#ffbf00;
     border-radius: 10%;
 }
